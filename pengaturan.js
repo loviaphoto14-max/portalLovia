@@ -2,5 +2,5 @@
 const CONFIG_APP = {
     namaVendor: "Lovia Studios",
     googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
-    whatsappAdmin: "6282117102831",
+    whatsappAdmin: "",
 };
